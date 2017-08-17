@@ -1,4 +1,4 @@
-# EmojiList ![weibo-logo](http://weibo.com/679571012)
+![All Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 目录
 -----------------
 
