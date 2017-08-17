@@ -1,4 +1,4 @@
-# EmojiList
+# EmojiList [![weibo-logo]](http://weibo.com/679571012)
 目录
 -----------------
 
