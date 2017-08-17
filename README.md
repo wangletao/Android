@@ -9,7 +9,7 @@
 - [符号](#符号)
 
 ## 人物 ##
-|   |   |   |
+|   `人物` |
 |---|---|---|
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
